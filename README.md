@@ -1,7 +1,5 @@
 ## 👋 Hi there
 
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=tgtfnoq6d6wccnfcxcjiwyzv7&redirect=true"><img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=tgtfnoq6d6wccnfcxcjiwyzv7&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" /></a>
-
  - You can call me 2869145032 or HuTao77
 
 ## 🤔 What I'm doing
